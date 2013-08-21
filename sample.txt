@@ -1,0 +1,4 @@
+http://localhost:9292/api/gigs/1
+http://localhost:9292/api/venues/1
+http://localhost:9292/api/artists/1
+http://localhost:9292/api/users/1
